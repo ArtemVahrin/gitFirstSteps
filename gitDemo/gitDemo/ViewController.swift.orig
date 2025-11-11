@@ -1,0 +1,28 @@
+//
+//  ViewController.swift
+//  gitDemo
+//
+//  Created by Артём on 29.10.2025.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+        print("Another print statement")
+<<<<<<< HEAD
+        
+        print("Bug fix branch print 1")
+    }
+    func bugFixFunc() {
+        print("Bug fixed")
+=======
+        print("Master or main branch print")
+>>>>>>> main
+    }
+
+}
+
